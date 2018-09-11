@@ -1,2 +1,4 @@
-This is one of my solo projects in oop php , which is a photo gallery build from sracth , 
-iam still working on some of it minor features , it uses Javascript, PHP, Bootstrap and much more
+This is one of my solo projects in oop php , which is a photo gallery build from sratch , 
+It uses Javascript, PHP, Bootstrap, jquery,HTML, CSS 
+Relies on LAMP stack to run smoothly.
+Users can upload, delete, save and update there profiles pictures  and accounts
